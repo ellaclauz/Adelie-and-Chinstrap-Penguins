@@ -1,5 +1,5 @@
 # Adelie-and-Chinstrap-Penguins
-# This project focuses on Adelie and Chinstrap Penguins,as these particular species has been in decline.
+This project focuses on Adelie and Chinstrap Penguins,as these particular species has been in decline.
 In this activity, I will conduct simple linear regression on the penguins dataset (gotten from Seaborn datasets)
 ## Project Questions:
 1. What do you observe about the different aspects of penguins shown in the data
