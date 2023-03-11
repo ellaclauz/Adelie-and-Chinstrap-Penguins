@@ -28,3 +28,5 @@ The results of a linear regression model can be used to express the relationship
 
 ### Outcomes
 There is a notable relationship between flipper length and body mass for Adelie and Chinstrap penguins, with a p-value of 0.000 and standard error of 3.620. For such penguins with 1 millimeter longer flippers, their body mass is 29.4380 grams more on average. If you are looking for insight that will help determine how to distribute food amongst penguins of these species at your zoo, consider the following: You could allocate resources so that penguins with longer flippers are fed larger servings proportional to their flipper length, to support/sustain their body mass.
+
+#### View code: https://github.com/ellaclauz/Adelie-and-Chinstrap-Penguins/blob/main/Adelie_Chinstrap_Penguins.ipynb
