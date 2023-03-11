@@ -1,3 +1,5 @@
+![penguin](https://user-images.githubusercontent.com/100838547/224485944-79342f50-ef8d-40fe-8523-0e903060e0d2.jpg)
+
 # Adelie-and-Chinstrap-Penguins
 This project focuses on Adelie and Chinstrap Penguins,as these particular species has been in decline.
 In this activity, I will conduct simple linear regression on the penguins dataset (gotten from Seaborn datasets)
@@ -12,3 +14,17 @@ In this activity, I will conduct simple linear regression on the penguins datase
 8. Implement the Ordinary Least Square (OLS) approach for linear regression
 9. Create a linear regression model for the data, fit the model to the data
 10. Get a summary of the results from the model
+
+## Process
+### Step 1: Data Preparation
+* Import the dataset and the relevant python libraries into the notebook. Carried out data cleaning and exploration by studying the data set and found that there are 4 species of penguins in the data and also checked for missing values. I found that there are 11 rows with missing values and deleted the rows with missing values  since it is not that much considering the total number of rows in the data.
+* Another important step in the data cleaning, was to filter the data to include only Adelie and Chinstrap Penguins as these are my focus in this project.
+
+### Step 2: Model
+I checked if the model assumptions for linear regression can be made from the data through exploratory data analysis and data visualization, and found that the assumptions are met. That is why I used the linear regression model for this project.
+
+### Step 3: Evaluation
+The results of a linear regression model can be used to express the relationship between two variables along with measures of uncertainty.
+
+### Outcomes
+There is a notable relationship between flipper length and body mass for Adelie and Chinstrap penguins, with a p-value of 0.000 and standard error of 3.620. For such penguins with 1 millimeter longer flippers, their body mass is 29.4380 grams more on average. If you are looking for insight that will help determine how to distribute food amongst penguins of these species at your zoo, consider the following: You could allocate resources so that penguins with longer flippers are fed larger servings proportional to their flipper length, to support/sustain their body mass.
